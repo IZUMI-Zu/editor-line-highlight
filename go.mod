@@ -1,4 +1,4 @@
-module github.com/apache/incubator-answer-plugins/editor-line-highlight
+module https://github.com/IZUMI-Zu/editor-line-highlight
 
 go 1.22.5
 
